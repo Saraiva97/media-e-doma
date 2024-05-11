@@ -10,8 +10,9 @@
 - Promover a prática de programação em C e o entendimento de conceitos básicos de arrays e média aritmética.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/93497276/183315300-cfdecb97-62ee-40e1-930e-d7353b4a7656.png" style="width: 200px"/>
+<img src="https://github.com/Saraiva97/media-e-soma/assets/93497276/f00b15fd-8251-438f-82ba-75dead7607ed" style="width: 200px"/>
 </div>
+
 
 **Como Funciona:**
 - Execute o programa e insira o número de elementos do vetor.
